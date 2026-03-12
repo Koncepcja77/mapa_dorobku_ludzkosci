@@ -1,0 +1,27 @@
+.canvas {
+    position: relative;
+    width: 1600px;
+    height: 800px;
+  }
+  
+  .node {
+    position: absolute;
+    background: white;
+    border: 3px solid #222;
+    padding: 14px;
+    border-radius: 8px;
+    width: 120px;
+  
+    color: #111;
+    font-family: Arial, sans-serif;
+    font-size: 10px;
+  
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+  }
+  
+  .nodeImage {
+    width: 100%;
+    margin-bottom: 8px;
+    border-radius: 4px;
+  }
+  
